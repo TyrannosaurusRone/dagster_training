@@ -1,0 +1,3 @@
+repository:
+    file: dagster_training.py
+    fn: define_partitions

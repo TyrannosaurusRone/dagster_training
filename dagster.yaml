@@ -1,0 +1,6 @@
+run_launcher: 
+  module: dagster_graphql.launcher
+    class: RemoteDagitRunLauncher
+      config:
+        address: http://dagit.mycorp.com
+        

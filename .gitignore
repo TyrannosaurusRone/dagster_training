@@ -1,0 +1,10 @@
+
+# Environments
+.env
+.venv
+env
+venv
+
+# IDE files
+.idea
+idea
